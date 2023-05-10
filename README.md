@@ -22,7 +22,7 @@ I'm Junior Developer looking for jod.
 - 🔭 I’m currently working on my Portfolio Website 😁
 - 🌱  Currently [learning](https://github.com/Sisarus?tab=repositories)
 - 💬 Ask me about anything, I am happy to help 😄
-- 📬 How to reach me: [Let's get in touch!][[linkedin](https://www.linkedin.com/in/alisa-luomanmaki/)]
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/alisa-luomanmaki/)
 
 - Backend:
 - Frontend: 
