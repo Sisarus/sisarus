@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Sisarus/sisarus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Welcome 👋, I'm Alisa Luomanmäki
+
+I'm Junior Developer looking for jod.
+
+- 🌱  Currently [learning](https://github.com/Sisarus?tab=repositories)
+
+-Frontend: 
+
+Con
