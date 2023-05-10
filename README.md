@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Welcome 👋, I'm Alisa Luomanmäki
 
-I'm Junior Developer looking for jod.
+I'm Junior Developer looking for job.
 
 - 🔭 I’m currently working on my Portfolio Website 😁
 - 🌱  Currently [learning](https://github.com/Sisarus?tab=repositories)
