@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome 👋, I'm Alisa Luomanmäki<br><br>I'm Junior Developer looking for job.<br>🔭 I’m currently working on my Portfolio Website 😁<br>🌱 Currently [learning](https://github.com/Sisarus?tab=repositories)<br>📬 How to reach me: linkedin [Let's get in touch!] (https://www.linkedin.com/in/alisa-luomanmaki/)
+Welcome 👋, I'm Alisa Luomanmäki<br><br>I'm Junior Developer looking for job.<br>🔭 I’m currently working on my Portfolio Website 😁<br>🌱 Currently [learning](https://github.com/Sisarus?tab=repositories)<br>📬 How to reach me: linkedin [Let's get in touch!](https://www.linkedin.com/in/alisa-luomanmaki/)
 
 
 ## 🌐 Socials:
